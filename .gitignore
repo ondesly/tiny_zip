@@ -1,0 +1,4 @@
+.DS_Store
+.swiftpm
+.idea
+cmake-build-debug
